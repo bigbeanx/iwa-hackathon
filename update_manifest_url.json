@@ -2,7 +2,7 @@
   "versions": [
     {
       "version": "0.1.2",
-      "src": "iwa-sink.swbn",
+      "src": "https://github.com/bigbeanx/iwa-hackathon/raw/main/iwa-sink.swbn",
       "channels": ["default"]
     },
   ]
